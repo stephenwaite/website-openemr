@@ -71,9 +71,10 @@ Donations are handled by **Zeffy**, **GitHub Sponsors** and **Open Collective**.
 
 | Cookie | Set by | Purpose | When |
 |---|---|---|---|
-| `__cf_bm`, `cf_clearance` | Cloudflare | Security: tells real visitors apart from bots | May be set on any visit |
-| Wiki session cookies | Our wiki (MediaWiki) | Keeps you logged in | Only if you log in to the wiki |
-| `_ga`, `_ga_*` | Google Analytics | Analytics | Only after you click **Accept** |
+| `cf_clearance` | Cloudflare | Security: remembers that your browser passed a Cloudflare security check, so you aren't checked again | Only after you're shown a security check; lasts up to 1 year |
+| Wiki session, user ID and username cookies | Our wiki (MediaWiki) | Keeps you logged in | Only if you log in to the wiki; up to 30 days |
+| `UseDC` | Our wiki (MediaWiki) | Technical: makes sure you see your own edits right away | Briefly, after you save a wiki edit |
+| `_ga`, `_ga_*` | Google Analytics | Analytics | Only after you click **Accept**; up to 13 months |
 
 Your consent choice is saved in your browser's local storage (not a cookie) so the banner doesn't reappear on every page. The site does not use advertising or cross-site tracking cookies.
 
