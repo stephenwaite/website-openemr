@@ -55,6 +55,7 @@ To display the website, your browser fetches some files directly from other prov
 - **Fonts** from Google Fonts and Adobe Fonts
 - **Code libraries** from jsDelivr, cdnjs (Cloudflare), the Bootstrap CDN and the jQuery CDN
 - **Videos** embedded from YouTube on the homepage, the lectures pages and a few blog posts. We use YouTube's privacy-enhanced mode, so YouTube doesn't set cookies unless you play a video.
+- **Videos on some wiki pages**, embedded from YouTube and similar services. The video service receives your details when the video loads.
 
 ### Search engine data
 
@@ -64,7 +65,11 @@ We use Google Search Console to see how the website appears in Google search res
 
 ### Wiki accounts
 
-If you create a wiki account, we store your username, your password (in a scrambled, hashed form) and your email address if you provide one. When you're logged in, the wiki uses cookies to keep you signed in. Edits are public: the page history shows your username next to each change. You need an account to edit; anonymous editing is turned off.
+Anyone can read the wiki. To edit, you need an account, which wiki administrators create on request; anonymous editing is turned off. For each account we store your username, your password (in a scrambled, hashed form) and your email address if you provide one. When you're logged in, the wiki uses cookies to keep you signed in.
+
+- **Edits and uploads are public.** The page history shows your username next to each change, and uploaded files can be seen by anyone, including any details embedded in the file (such as where and when a photo was taken).
+- **The wiki software records the network address of each edit** for about 90 days to help fight spam and abuse. It isn't shown publicly.
+- **Email:** the wiki sends account emails (such as password resets) and talk-page notifications from hello@open-emr.org. If you use the wiki's "Email this user" feature, the person you write to will see your email address.
 
 ### Forum accounts and posts
 
@@ -86,7 +91,7 @@ Donations are handled by **Zeffy**, **GitHub Sponsors** and **Open Collective**.
 | Cookie | Set by | Purpose | When |
 |---|---|---|---|
 | `cf_clearance` | Cloudflare | Security: remembers that your browser passed a Cloudflare security check, so you aren't checked again | Only after you're shown a security check; lasts up to 1 year |
-| Wiki session, user ID and username cookies | Our wiki (MediaWiki) | Keeps you logged in | Only if you log in to the wiki; up to 30 days |
+| Wiki session, user ID and username cookies | Our wiki (MediaWiki) | Keeps you logged in | Only if you log in to the wiki; up to 30 days, or up to 180 days if you choose "Keep me logged in" |
 | `UseDC` | Our wiki (MediaWiki) | Technical: makes sure you see your own edits right away | Briefly, after you save a wiki edit |
 | `_t`, `_forum_session` | Our forum (Discourse) | Keeps you logged in and remembers your session | When you use the forum; the login cookie lasts until you log out or it expires |
 | `_ga`, `_ga_*` | Google Analytics | Analytics | Only after you click **Accept**; up to 13 months |
