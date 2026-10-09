@@ -187,7 +187,7 @@ params:
   githubSponser: openemr
   openCollective: openemr
   # GA4 "G-" measurement ID. Empty disables both analytics and the consent banner.
-  ga4_measurement_id: ""
+  ga4_measurement_id: "G-6ZX96L7J8J"
   author:
     name: OpenEMR
     twitter: openemr
