@@ -61,15 +61,11 @@ We use Google Search Console to see how the site appears in Google search result
 
 ### Wiki accounts
 
-If you create a wiki account, we store your username, your password (in a scrambled, hashed form) and your email address if you provide one. When you're logged in, the wiki uses cookies to keep you signed in. Edits are public: the page history shows your username next to each change. If you edit without logging in, your IP address is shown publicly in its place.
+If you create a wiki account, we store your username, your password (in a scrambled, hashed form) and your email address if you provide one. When you're logged in, the wiki uses cookies to keep you signed in. Edits are public: the page history shows your username next to each change. You need an account to edit; anonymous editing is turned off.
 
 ### Donations
 
 Donations are handled by **Zeffy**, **GitHub Sponsors** and **Open Collective**. You give your payment details directly to those platforms, and the Foundation never sees or stores card numbers. The platform shares with us what's needed to thank you, issue receipts and keep nonprofit records, such as your name, email address, the amount and date, and any message you include. Each platform's own privacy policy also applies.
-
-### Email updates
-
-If you sign up for our email updates, we use Mailchimp to send them. Every email includes a link to unsubscribe.
 
 ## Cookies
 
@@ -83,7 +79,7 @@ Your consent choice is saved in your browser's local storage (not a cookie) so t
 
 ## How we use and share information
 
-We use information only to run, secure and improve the site and the OpenEMR project, to process and acknowledge donations, and to send updates you asked for.
+We use information only to run, secure and improve the site and the OpenEMR project, and to process and acknowledge donations.
 
 **We do not sell or rent personal information, and we don't share it for advertising.** We share it only with the service providers named in this policy, so they can do their jobs for us, or when the law requires it.
 
@@ -94,7 +90,6 @@ The Foundation and most of our service providers are based in the United States.
 ## Your choices and rights
 
 - **Analytics:** decline on the banner, or change your choice anytime with **Cookie settings**.
-- **Email:** use the unsubscribe link in any email.
 - **Wiki:** you can update your account settings. For other requests, contact us.
 - **Access, correction and deletion:** you can ask what personal information we hold about you, or ask us to correct or delete it. Public wiki history and records we're legally required to keep, such as donation records, may be exceptions.
 
