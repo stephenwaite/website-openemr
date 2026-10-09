@@ -46,7 +46,9 @@ We've configured it to collect as little as practical:
 - Data is kept for 2 months and then deleted.
 - According to Google, Google Analytics 4 does not log or store IP addresses.
 
-If you click **Decline**, or never click either button, Google Analytics is not loaded at all. The website and the forum each have their own banner, and your choice is saved separately on each. You can change your mind at any time: on the website, use the **Cookie settings** link at the bottom of every page; on the forum, use the forum's cookie settings.
+If you click **Decline**, or never click either button, Google Analytics is not loaded at all. We also never run it on wiki login and account pages.
+
+The website and the wiki share one banner, so one choice covers both. The forum has its own banner, and your choice there is saved separately. You can change your mind at any time: on the website or wiki, use the **Cookie settings** link at the bottom of the page; on the forum, use the forum's cookie settings.
 
 ### Content loaded from other services
 
