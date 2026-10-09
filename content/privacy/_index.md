@@ -15,7 +15,7 @@ This policy covers www.open-emr.org, including the project wiki at www.open-emr.
 
 It does **not** cover these related sites, which are run separately:
 
-- **The community forum** at community.open-emr.org
+- **The community forum** at community.open-emr.org. The forum uses its own Google Analytics. Because it shares the open-emr.org domain, its analytics cookies (`_ga`, `_ga_*`, `_gid`, `_gat`) may show up in your browser here too, even if you haven't accepted analytics on this site.
 - **The online demos** at demo.openemr.io. These are public test systems that reset every day. Never enter real patient information into a demo.
 - **Sites we link to**, including donation platforms, GitHub, OpenCoreEMR and other partners. Once you leave our site, that site's own privacy policy applies.
 
