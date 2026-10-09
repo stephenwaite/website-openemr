@@ -114,6 +114,6 @@ When we change this policy, we'll update the "Last updated" date at the top of t
 
 ## Contact us
 
-Questions or requests about privacy: **privacy@open-emr.org**
+Questions or requests about privacy: **hello@open-emr.org**
 
 OpenEMR Foundation, Inc.
